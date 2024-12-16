@@ -1,4 +1,4 @@
-# analisis_de_plataformas_de_videojuegos
+# Analisis_de_plataformas_de_videojuegos
 # Introducción
 Analizaremos La tienda online Ice vende videojuegos por todo el mundo.Esto nos permitirá detectar planificar campañas publicitarias.
 Las reseñas de usuarios y expertos, los géneros, las plataformas y los datos históricos sobre las ventas de juegos están disponibles. 
