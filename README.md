@@ -2,7 +2,10 @@
 # Introducción
 Analizaremos La tienda online Ice que vende videojuegos por todo el mundo.Esto nos permitirá detectar y planificar campañas publicitarias.
 Las reseñas de los usuarios y expertos, los géneros, las plataformas y los datos históricos sobre las ventas de juegos están disponibles. 
-Vamos a identificar patrones que determinen si un juego tiene éxito o no. Hay datos que se remontan a 2016. 
+Vamos a identificar patrones que determinen si un juego tiene éxito o no. Los datos se remontan a 2016. 
+Resolveremos nuestras dos hipotesis que nos planteamos:
+- Hipótesis 1: Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.
+- Hipótesis 2: Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
 
 El dataset contiene una columna `rating` que almacena la clasificación **ESRB** de cada juego. El Entertainment Software Rating Board evalúa el contenido de un juego y asigna una clasificación por edad como Adolescente o Adulto.
 
@@ -54,12 +57,12 @@ El dataset contiene una columna `rating` que almacena la clasificación **ESRB**
 -  -
 -  -
 - Realizamos visualizaciones para observar cuales plataformas reportaban mayores números de ventas por Región: 
--  - **Norte America** plataforma con mayor numero de ventas X360
--  - **Japón**  plataforma con mayor numero de ventas 3DS 
--  - **Europa y resto del mundo** mayor numero de ventas PS3
+-  - **Norte America** plataforma con mayor numero de ventas **X360**
+-  - **Japón**  plataforma con mayor numero de ventas **3DS** 
+-  - **Europa y resto del mundo** mayor numero de ventas **PS3**
 - Obtuvimos que los juegos dirigidos a un publico maduro **(Mature)** de acuerdo a la clasificación **(ESRB)**  obtuvieron las mayores ventas en casi todas las regiones! con excepción de nuestro pais nipon 'Japon' donde habia más ventas dirigido a un público para todas las edades **Everyone**
 ## Hipotesis
-De acuerdo a nuestras dos hipotesis:
+
 - **Hipótesis 1: Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.**
 - - Hipótesis nula (H0): Las calificaciones promedio de los usuarios para Xbox One y PC son iguales.
 - - Hipótesis alternativa (H1): Las calificaciones promedio de los usuarios para Xbox One y PC son diferentes.
