@@ -50,14 +50,14 @@ El dataset contiene una columna `Rating` que almacena la clasificación **ESRB**
 - Apartir de nuestro nuevo Dataframe realizamos un diagrama de caja, visualizamos las 2 plataformas con mayor numero de ventas en el mundo siendo **ps3 y ps4**.
 - No encontramos correlación con las ventas y las reseñas hechas por usuarios y por profesionales. 
 - Mediante una grafica de barras obtuvimos:.
-- Los 3 mejores juegos en ventas:
-- -
-- -
-- -
--  Los 3 peores en ventas:
--  -
--  -
--  -
+- Los 3 mejores juegos en ventas por genero:
+- - Acción (action)
+- - De disparo (shooter)
+- - Juegos de rol (role_playing)
+-  Los 3 peores en ventas por genero:
+-  - Aventura (adventure)
+-  - Estrategia (strategy)
+-  - De rompecabezas (puzzle)
 - Realizamos visualizaciones para observar cuales plataformas reportaban mayores números de ventas por Región: 
 -  - **Norte America** plataforma con mayor numero de ventas **X360**
 -  - **Japón**  plataforma con mayor numero de ventas **3DS** 
