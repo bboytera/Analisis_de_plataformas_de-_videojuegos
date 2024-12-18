@@ -10,7 +10,7 @@ Resolveremos nuestras dos hipotesis que nos planteamos:
 
 
 # Descripción de los datos
-El dataset contiene una columna `Rating` que almacena la clasificación **ESRB** de cada juego. El Entertainment Software Rating Board evalúa el contenido de un juego y asigna una clasificación por edad como Adolescente o Adulto.
+El dataset contiene una columna `Rating` que almacena la clasificación **ESRB** de cada juego (Entertainment Software Rating Board) evalúa el contenido de un juego y asigna una clasificación por edad como Adolescente o Adulto.
 
 - `Name` (Nombre)
 
