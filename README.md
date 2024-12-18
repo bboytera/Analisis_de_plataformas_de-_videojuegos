@@ -7,9 +7,11 @@ Resolveremos nuestras dos hipotesis que nos planteamos:
 - Hipótesis 1: Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.
 - Hipótesis 2: Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
 
-El dataset contiene una columna `rating` que almacena la clasificación **ESRB** de cada juego. El Entertainment Software Rating Board evalúa el contenido de un juego y asigna una clasificación por edad como Adolescente o Adulto.
+
 
 # Descripción de los datos
+El dataset contiene una columna `Rating` que almacena la clasificación **ESRB** de cada juego. El Entertainment Software Rating Board evalúa el contenido de un juego y asigna una clasificación por edad como Adolescente o Adulto.
+
 - `Name` (Nombre)
 
 - `Platform` (Plataforma)
